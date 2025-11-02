@@ -1,5 +1,5 @@
-# Text Segmentation
-
+# Prompted Segmentation for Drywall QA
+Given an image of a crack region or wall joint with a text prompt, the model will generate binary mask of that area. 
 
 ## Installation
 
