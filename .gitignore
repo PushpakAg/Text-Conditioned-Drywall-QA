@@ -1,0 +1,11 @@
+data/*
+outputs/predictions/*
+outputs/visual_examples/*
+outputs/logs/*
+
+
+__pycache__/
+
+logs/
+plots.py
+
