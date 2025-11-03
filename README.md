@@ -1,4 +1,4 @@
-# Prompted Segmentation for Drywall QA
+```# Prompted Segmentation for Drywall QA
 Given an image of a crack region or wall joint with a text prompt, the model will generate binary mask of that area. 
 
 ## Installation
@@ -49,5 +49,5 @@ Using the provided link download the dataset in Pascal VOC format and put in und
    ```
 
 ## Results
-- ![Crack](images/crack.jpg)
-- ![Taping Area](images/taping_area.jpg)
+* ![Crack](images/crack_plot.jpg)
+* ![Taping Area](images/taping_area_plot.jpg)
